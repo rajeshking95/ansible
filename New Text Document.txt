@@ -1,1 +1,2 @@
 Hard work never faile 
+please use git fetch  and merge if u want updated code form git 
