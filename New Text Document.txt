@@ -1,2 +1,3 @@
 Hard work never faile 
 please use git fetch  and merge if u want updated code form git 
+why dont we use direct git pull instead of git fetch and merge
